@@ -6,4 +6,4 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chawthorne02&theme=merko)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=chawthorne02&theme=merko&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=chawthorne02&theme=merko)](https://git.io/streak-stats)
