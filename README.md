@@ -4,4 +4,4 @@
 - 📫 How to reach me: E-mail: chawthorne02@gmail.com
 - :desktop_computer: Connect with me on [Linkedin](https://www.linkedin.com/in/corey-hawthorne-80a2581b6/)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chawthorne02 &theme=radical)
+
