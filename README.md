@@ -5,3 +5,4 @@
 - :desktop_computer: Connect with me on [Linkedin](https://www.linkedin.com/in/corey-hawthorne-80a2581b6/)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chawthorne02&theme=merko)
+[![GitHub Streak](https://streak-stats.demolab.com?user=chawthorne02&theme=merko&hide_border=true)](https://git.io/streak-stats)
