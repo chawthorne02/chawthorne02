@@ -1,3 +1,6 @@
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 - 👋 Hey! My name is Corey Hawthorne
 - 👀 I’m interested in coding, food, gaming, sports (particulary basketball and football), staying active and healthy!
 - 🌱 I’m currently learning JavaScript/React, Python, and Django and developing the neccessary skills to start a career in software engineering!
@@ -13,7 +16,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chawthorne02&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
