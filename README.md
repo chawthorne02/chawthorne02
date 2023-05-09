@@ -1,9 +1,8 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 👋 Hey! My name is Corey Hawthorne
-- 👀 I’m interested in coding, food, gaming, sports (particulary basketball and football), staying active and healthy!
-- 🌱 I’m currently learning JavaScript/React, Python, and Django and developing the neccessary skills to start a career in software engineering!
+# 👋 Hey! I'm Corey Hawthorne
+- Former educator transitioning into Front End Developer role. I have experience with HTML,  CSS,  JavaScript, BootStrap, React, Python, Django,  React BootStrap ,Rest API'S and I understand the importance of creating highly readable and easily maintainable source code with experience in Agile methodology. 
 - 📫 How to reach me: E-mail: chawthorne02@gmail.com
 - :desktop_computer: Connect with me on [Linkedin](https://www.linkedin.com/in/corey-hawthorne-80a2581b6/)
 
